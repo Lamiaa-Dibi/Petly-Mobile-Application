@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602787270964",
+    "project_id": "petly-9d1d7",
+    "storage_bucket": "petly-9d1d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602787270964:android:aa6a8854fd92fede2b5561",
+        "android_client_info": {
+          "package_name": "com.example.petly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvqJXYm0yyrotH1y7nkYfdQljN0lkED_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
